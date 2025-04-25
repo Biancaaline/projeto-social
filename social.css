@@ -15,7 +15,7 @@ img {
     width: 100vw;
    }
 
-a houver {
+a:hover {
     background-color: red;
 }
    
